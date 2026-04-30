@@ -1,12 +1,12 @@
 ---
-title: "[APP NAME] — Legal"
+title: "GlowTan— Legal"
 ---
 
-# [APP NAME]
+# Glowtan
 
-Legal documents for the [APP NAME] iOS application.
+Legal documents for the GlowTan iOS application.
 
 - [Privacy Policy](privacy)
 - [Terms of Service](terms)
 
-For questions, contact **[YOUR CONTACT EMAIL]**.
+For questions, contact us
