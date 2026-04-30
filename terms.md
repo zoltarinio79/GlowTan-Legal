@@ -94,7 +94,7 @@ You acknowledge that these Terms are between you and us, not with Apple. Apple i
 
 ## 13. Contact
 
-If you have questions about these Terms, please contact us:
+If you have questions about these Terms, 
 
-Stefanos
-Email:
+please contact us
+Email: glowtan@ghostnoteapps.com
