@@ -1,6 +1,6 @@
-# [APP NAME] — Legal
+# GlowTan — Legal
 
-Privacy Policy and Terms of Service for the [APP NAME] iOS app, hosted via GitHub Pages.
+Privacy Policy and Terms of Service for the GlowTan iOS app, hosted via GitHub Pages.
 
 ## Setup
 
