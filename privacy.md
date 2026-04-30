@@ -21,6 +21,7 @@ We collect only the information needed to make the app work for you. Specificall
 - **Tanning session history** — Records of sessions you log within the app.
 - **Progress photos (optional)** — Photos you choose to add. These are only collected if you actively add them.
 - **Purchase entitlement data** — Information from Apple confirming whether you have an active subscription or purchase. We do **not** receive your payment details, card number, or Apple ID.
+- **Subscription processing** is handled by Apple through the App Store. We use RevenueCat to help manage subscription status and purchase entitlement information. We do not receive your payment details, card number, or Apple ID. RevenueCat Privacy Policy: https://www.revenuecat.com/privacy
 - **Location data** — Your device's location, used to fetch UV index and weather data for sun-safety guidance. You can grant, limit, or revoke this in iOS Settings at any time.
 
 We do **not** collect: your name, email, phone number, contacts, advertising identifiers, or browsing activity outside the app. The app does not contain advertising and does not have user accounts.
@@ -39,13 +40,14 @@ We do **not** sell, rent, or share your personal data with advertisers or data b
 
 ## 3. Where Your Data Is Stored
 
-Most of your data — including your questionnaire answers, session history, saved locations, and progress photos — is stored **locally on your device**. If you have iCloud sync enabled in iOS, this data may also be synced through your private iCloud account, which is controlled by you and governed by Apple's Privacy Policy.
+Most of your data — including your questionnaire answers, session history, saved locations, and progress photos — is stored **locally on your device**. Most of your data — including your questionnaire answers, session history, saved locations, and progress photos — is stored locally on your device.
 
 We do not operate our own servers that store your personal profile, photos, or session data.
 
 ## 4. Third-Party Services
 
-To provide UV and weather information, the app sends your location coordinates to a third-party weather/UV data provider ([NAME OF API, e.g. OpenWeatherMap / Apple WeatherKit]). Only coordinates are sent — never your identity, profile, or session data. Please review their privacy practices: [URL TO PROVIDER POLICY].
+To provide UV and weather information, the app sends your location coordinates to a third-party weather/UV data provider Apple WeatherKit
+https://www.apple.com/legal/privacy/. Only coordinates are sent — never your identity, profile, or session data.
 
 Subscription processing is handled entirely by **Apple** under the Apple Media Services Terms and Apple's Privacy Policy. We receive only entitlement information (whether your subscription is active).
 
