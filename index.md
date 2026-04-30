@@ -10,3 +10,4 @@ Legal documents for the GlowTan iOS application.
 - [Terms of Service](terms)
 
 For questions, contact us
+glowtan@ghostnoteapps.com
