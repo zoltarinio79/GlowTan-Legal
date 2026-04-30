@@ -4,12 +4,12 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Effective date:** [DATE, e.g. 1 May 2026]
-**Last updated:** [DATE]
+**Effective date:** 30 April 2026
+**Last updated:** 30 April 2026
 
-This Privacy Policy explains how **[APP NAME]** ("we", "our", or "the app"), provided by **[YOUR NAME OR COMPANY]**, handles your information when you use our iOS application. We have designed the app to keep your personal data on your device wherever possible.
+This Privacy Policy explains how GlowTan ("we", "our", or "the app"), provided by Stefanos, handles your information when you use our iOS application. We have designed the app to keep your personal data on your device wherever possible.
 
-By using [APP NAME], you agree to the practices described below.
+By using GlowTan, you agree to the practices described below.
 
 ## 1. Information We Collect
 
@@ -57,7 +57,7 @@ Progress photos are stored locally and never uploaded by us.
 
 ## 6. Children's Privacy
 
-[APP NAME] is not directed at children under 13 (or under 16 in the EEA). We do not knowingly collect data from children. If you believe a child has provided data through the app, please contact us and we will assist with removal where applicable.
+GlowTan is not directed at children under 13 (or under 16 in the EEA). We do not knowingly collect data from children. If you believe a child has provided data through the app, please contact us and we will assist with removal where applicable.
 
 ## 7. Your Rights
 
@@ -66,9 +66,9 @@ Depending on where you live, you have rights regarding your personal data. Becau
 - **Access and review** — View your data inside the app at any time.
 - **Correction** — Edit your profile, questionnaire answers, locations, sessions, and photos within the app.
 - **Deletion** — Delete entries individually inside the app, or remove all data by uninstalling the app and deleting its iCloud backup in iOS Settings.
-- **Withdraw consent** — Disable location access or photo permissions in iOS Settings → [APP NAME].
+- **Withdraw consent** — Disable location access or photo permissions in iOS Settings → GlowTan.
 
-If you are in the **EU/EEA or UK**, the GDPR also gives you the right to lodge a complaint with your local data protection authority. In Cyprus, this is the [Office of the Commissioner for Personal Data Protection](https://www.dataprotection.gov.cy/).
+If you are in the **EU/EEA or UK**, the GDPR also gives you the right to lodge a complaint with your local data protection authority.
 
 If you are in **California**, you have rights under the CCPA, including the right to know and delete. We do not sell personal information.
 
@@ -88,6 +88,6 @@ We may update this Privacy Policy from time to time. When we do, we will revise 
 
 If you have any questions about this Privacy Policy or your data, please contact us:
 
-**[YOUR NAME OR COMPANY]**
-Email: **[YOUR CONTACT EMAIL]**
-[OPTIONAL: Postal address]
+Stefanos
+Email: 
+
