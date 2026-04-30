@@ -1,0 +1,4 @@
+title: "[APP NAME] — Legal"
+description: "Privacy Policy and Terms of Service for [APP NAME]"
+theme: jekyll-theme-cayman
+permalink: /:title
