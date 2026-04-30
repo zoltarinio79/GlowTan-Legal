@@ -15,7 +15,7 @@ We grant you a limited, non-exclusive, non-transferable, revocable license to us
 
 ## 2. Important Health and Safety Disclaimer
 
-GlowTan is not a medical device and does not provide medical advice.** The information, UV readings, recommendations, timers, and guidance provided by the app are for general informational and lifestyle purposes only.
+**GlowTan is not a medical device and does not provide medical advice.** The information, UV readings, recommendations, timers, and guidance provided by the app are for general informational and lifestyle purposes only.
 
 - Exposure to ultraviolet (UV) radiation, including from sunlight and tanning, carries serious health risks including sunburn, premature skin aging, eye damage, and skin cancer (including melanoma).
 - The app's guidance is based on general inputs and third-party UV/weather data, which may be inaccurate, delayed, or unavailable.
@@ -39,7 +39,7 @@ GlowTan offers subscriptions and/or in-app purchases sold through Apple's App St
 
 ### Refunds
 
-All refund requests are handled by Apple. To request a refund, visit (https://reportaproblem.apple.com).
+All refund requests are handled by Apple. To request a refund, visit https://reportaproblem.apple.com
 
 ### Pricing and Changes
 
@@ -56,7 +56,7 @@ You agree not to:
 
 ## 5. User Content
 
-If you add progress photos, notes, or other content within the app, that content remains yours. We do not claim ownership and we do not access, transmit, or use your content. It stays on your device (and your iCloud, if enabled).
+If you add progress photos, notes, or other content within the app, that content remains yours. We do not claim ownership and we do not access, transmit, or use your content. It stays on your device unless you choose to export or delete it.
 
 ## 6. Intellectual Property
 
@@ -73,6 +73,8 @@ To the maximum extent permitted by law, Stefanos shall not be liable for any ind
 To the extent liability cannot be excluded under applicable law, our total liability is limited to the amount you paid for the app or subscription in the twelve (12) months preceding the claim.
 
 Nothing in these Terms limits liability that cannot be limited under applicable law (for example, liability for death or personal injury caused by negligence under EU consumer law).
+
+Do not use GlowTan as a substitute for professional medical advice, diagnosis, treatment, or emergency care.
 
 ## 9. Termination
 
