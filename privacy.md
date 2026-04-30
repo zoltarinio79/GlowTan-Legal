@@ -88,8 +88,7 @@ We may update this Privacy Policy from time to time. When we do, we will revise 
 
 ## 11. Contact
 
-If you have any questions about this Privacy Policy or your data, please contact us:
-
-Stefanos
-Email: 
+If you have any questions about this Privacy Policy or your data, 
+please contact us:
+Email: glowtan@ghostnoteapps.com
 
