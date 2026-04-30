@@ -4,18 +4,18 @@ title: Terms of Service
 
 # Terms of Service
 
-**Effective date:** [DATE, e.g. 1 May 2026]
-**Last updated:** [DATE]
+**Effective date:** 30 April 2026
+**Last updated:** 30 April 2026
 
-These Terms of Service ("Terms") govern your use of **[APP NAME]** ("the app"), provided by **[YOUR NAME OR COMPANY]** ("we", "our"). By downloading, installing, or using the app, you agree to these Terms. If you do not agree, please do not use the app.
+These Terms of Service ("Terms") govern your use of GlowTan ("the app"), provided by Stefanos ("we", "our"). By downloading, installing, or using the app, you agree to these Terms. If you do not agree, please do not use the app.
 
 ## 1. License
 
-We grant you a limited, non-exclusive, non-transferable, revocable license to use [APP NAME] on Apple devices that you own or control, as permitted by the Apple Media Services Terms and Conditions and these Terms.
+We grant you a limited, non-exclusive, non-transferable, revocable license to use GlowTan on Apple devices that you own or control, as permitted by the Apple Media Services Terms and Conditions and these Terms.
 
 ## 2. Important Health and Safety Disclaimer
 
-**[APP NAME] is not a medical device and does not provide medical advice.** The information, UV readings, recommendations, timers, and guidance provided by the app are for general informational and lifestyle purposes only.
+GlowTan is not a medical device and does not provide medical advice.** The information, UV readings, recommendations, timers, and guidance provided by the app are for general informational and lifestyle purposes only.
 
 - Exposure to ultraviolet (UV) radiation, including from sunlight and tanning, carries serious health risks including sunburn, premature skin aging, eye damage, and skin cancer (including melanoma).
 - The app's guidance is based on general inputs and third-party UV/weather data, which may be inaccurate, delayed, or unavailable.
@@ -27,7 +27,7 @@ You use the app at your own risk. We are not responsible for any health outcomes
 
 ## 3. Subscriptions and In-App Purchases
 
-[APP NAME] offers subscriptions and/or in-app purchases sold through Apple's App Store. The following terms apply, in addition to Apple's Media Services Terms.
+GlowTan offers subscriptions and/or in-app purchases sold through Apple's App Store. The following terms apply, in addition to Apple's Media Services Terms.
 
 ### Auto-Renewing Subscriptions
 
@@ -39,7 +39,7 @@ You use the app at your own risk. We are not responsible for any health outcomes
 
 ### Refunds
 
-All refund requests are handled by Apple. To request a refund, visit [reportaproblem.apple.com](https://reportaproblem.apple.com).
+All refund requests are handled by Apple. To request a refund, visit (https://reportaproblem.apple.com).
 
 ### Pricing and Changes
 
@@ -68,7 +68,7 @@ The app is provided **"as is"** and **"as available"** without warranties of any
 
 ## 8. Limitation of Liability
 
-To the maximum extent permitted by law, **[YOUR NAME OR COMPANY]** shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to personal injury, health-related harm, loss of data, or loss of profits, arising from your use of or inability to use the app.
+To the maximum extent permitted by law, Stefanos shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to personal injury, health-related harm, loss of data, or loss of profits, arising from your use of or inability to use the app.
 
 To the extent liability cannot be excluded under applicable law, our total liability is limited to the amount you paid for the app or subscription in the twelve (12) months preceding the claim.
 
@@ -84,7 +84,7 @@ We may update these Terms from time to time. When we do, we will revise the "Las
 
 ## 11. Governing Law
 
-These Terms are governed by the laws of **[Cyprus / your jurisdiction]**, without regard to its conflict-of-law principles. If you are a consumer in the EU/EEA, you also benefit from the mandatory consumer protection provisions of the country in which you reside.
+These Terms are governed by the laws of Cyprus, without regard to its conflict-of-law principles. If you are a consumer in the EU/EEA, you also benefit from the mandatory consumer protection provisions of the country in which you reside.
 
 ## 12. Apple-Specific Terms
 
@@ -94,5 +94,5 @@ You acknowledge that these Terms are between you and us, not with Apple. Apple i
 
 If you have questions about these Terms, please contact us:
 
-**[YOUR NAME OR COMPANY]**
-Email: **[YOUR CONTACT EMAIL]**
+Stefanos
+Email:
