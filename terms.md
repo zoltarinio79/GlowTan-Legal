@@ -7,7 +7,7 @@ title: Terms of Service
 **Effective date:** 30 April 2026
 **Last updated:** 30 April 2026
 
-These Terms of Service ("Terms") govern your use of GlowTan ("the app"), provided by Stefanos ("we", "our"). By downloading, installing, or using the app, you agree to these Terms. If you do not agree, please do not use the app.
+These Terms of Service ("Terms") govern your use of GlowTan ("the app"), provided by GhostNoteAPPS ("we", "our"). By downloading, installing, or using the app, you agree to these Terms. If you do not agree, please do not use the app.
 
 ## 1. License
 
@@ -68,7 +68,7 @@ The app is provided **"as is"** and **"as available"** without warranties of any
 
 ## 8. Limitation of Liability
 
-To the maximum extent permitted by law, Stefanos shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to personal injury, health-related harm, loss of data, or loss of profits, arising from your use of or inability to use the app.
+To the maximum extent permitted by law, GhostNoteAPPS shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to personal injury, health-related harm, loss of data, or loss of profits, arising from your use of or inability to use the app.
 
 To the extent liability cannot be excluded under applicable law, our total liability is limited to the amount you paid for the app or subscription in the twelve (12) months preceding the claim.
 
